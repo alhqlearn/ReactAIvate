@@ -1,6 +1,5 @@
 ## Overview
-In this work, we demonstrate how reward shaping can render a policy gradient reinforcement learning (RL) approach a valuable tool for reaction discovery. Whereas we deploy RL to navigate the generation of novel practical molecules towards higher yield/selectivity regions, yield due to the newly generated molecules is predicted using a transfer learning model.
-
+The work introduces a new dataset and related task of predicting single reaction steps which is required to predict chemical reaction mechanisms. A model is introduced that simultaneously predicts reaction steps and reactive atoms, using an attention based graph neural network based architecture.
 ### Environmental Setup
 
 ```
