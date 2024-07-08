@@ -1,0 +1,16 @@
+name: ReactAIvate
+channels:
+  - rdkit
+  - pytorch
+  - dglteam
+  - defaults
+dependencies:
+  - matplotlib=3.5.3
+  - ipython=7.26.0
+  - numpy=1.21.2
+  - pandas=1.3.0
+  - pytorch=1.12.1
+  - scipy=1.6.2
+  - tqdm=4.62.1
+  - requests=2.26.0
+  - jupyter
