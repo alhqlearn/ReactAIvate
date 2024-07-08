@@ -1,4 +1,3 @@
-# ReactAIvate: A Deep Learning Approach to Predicting Reaction Mechanisms and Unmasking Reactivity Hotspots
 ## Overview
 The work introduces a new dataset and related task of predicting single reaction steps which is required to predict chemical reaction mechanisms. A model is introduced that simultaneously predicts reaction steps and reactive atoms, using an attention based graph neural network based architecture.
 ### Environmental Setup
