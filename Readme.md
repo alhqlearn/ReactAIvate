@@ -10,5 +10,6 @@ pip install dgllife
 pip install rdkit
 pip install scikit-learn
 ```
-2. To train the ReactAIvate model use 'ReactAIvate.ipynb' file.
-3. For CRM generation, use 'CRM_Generation_using_ReactAIvate.ipynb' python file.
+### Training 
+To train the ReactAIvate model use 'ReactAIvate.ipynb' file.
+For CRM generation, use 'CRM_Generation_using_ReactAIvate.ipynb' python file.
