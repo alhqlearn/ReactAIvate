@@ -12,4 +12,5 @@ pip install scikit-learn
 ```
 ### Training 
 To train the ReactAIvate model use 'ReactAIvate.ipynb' file.
+
 For CRM generation, use 'CRM_Generation_using_ReactAIvate.ipynb' python file.
