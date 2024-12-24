@@ -9,7 +9,7 @@ from dgllife.utils import smiles_to_bigraph
 from dgllife.utils import EarlyStopping, Meter
 from dgllife.utils import AttentiveFPAtomFeaturizer
 from dgllife.utils import AttentiveFPBondFeaturizer
-
+from rdkit import Chem
 import torch
 import os
 import random
