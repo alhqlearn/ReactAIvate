@@ -14,3 +14,22 @@ pip install scikit-learn
 To train the ReactAIvate model use 'ReactAIvate.ipynb' file.
 
 For CRM generation, use 'CRM_Generation_using_ReactAIvate.ipynb' python file.
+
+###  Citations
+
+If you find this code or work useful in your research, please cite:
+
+**Hoque, A.; Das, M.; Baranwal, M.; Sunoj, R. B.** *ReactAIvate: A Deep Learning Approach to Predicting Reaction Mechanisms and Unmasking Reactivity Hotspots.* *Proceedings in Artificial Intelligence (ECAI 2024),* Volume 392, 2024, Pages 2645–2652. DOI: [10.3233/FAIA240796](https://doi.org/10.3233/FAIA240796)
+
+###  BibTeX
+```bibtex
+@inproceedings{Hoque2024_ReactAIvate,
+  author    = {Hoque, A. and Das, M. and Baranwal, M. and Sunoj, R. B.},
+  title     = {ReactAIvate: A Deep Learning Approach to Predicting Reaction Mechanisms and Unmasking Reactivity Hotspots},
+  booktitle = {Proceedings in Artificial Intelligence (ECAI 2024)},
+  year      = {2024},
+  volume    = {392},
+  pages     = {2645--2652},
+  doi       = {10.3233/FAIA240796}
+}
+
